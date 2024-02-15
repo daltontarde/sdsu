@@ -1,1 +1,1 @@
-# sdsu
+# San Diego State University
