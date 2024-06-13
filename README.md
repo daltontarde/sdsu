@@ -1,5 +1,6 @@
 # San Diego State University
 Computer Science, B.S. in Applied Arts and Sciences
+English, B.A. in Liberal Arts and Sciences
 
 (Major Code: 07011) (SIMS Code: 773801)
 
