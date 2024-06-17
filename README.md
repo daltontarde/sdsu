@@ -1,12 +1,6 @@
 # San Diego State University
 <h2> Computer Science, B.S. in Applied Arts and Sciences </h2>
-<h2> English, B.A. in Liberal Arts and Sciences </h2>
-
 (Major Code: 07011) (SIMS Code: 773801)
-
-All candidates for a degree in applied arts and sciences must complete the graduation requirements listed in the section of this catalog on “Graduation Requirements.”
-
-A minor is not required for this major.
 
 Preparation for the Major
 (42 units)
@@ -78,5 +72,7 @@ CS 497 - Undergraduate Research Seminar Units: 3
 CS 498 - Undergraduate Honors Thesis Units: 3
 CS 499 - Special Study Units: 1-3
 CS 596 - Advanced Topics in Computer Science Units: 1-4
+
+<h2> English, B.A. in Liberal Arts and Sciences </h2>
 
 Copyright © 2019 San Diego State University
