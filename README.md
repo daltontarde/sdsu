@@ -74,5 +74,6 @@ CS 499 - Special Study Units: 1-3
 CS 596 - Advanced Topics in Computer Science Units: 1-4
 
 <h2> English, B.A. in Liberal Arts and Sciences </h2>
+(Major Code: ) (SIMS Code: )
 
 Copyright © 2019 San Diego State University
