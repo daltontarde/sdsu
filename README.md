@@ -1,6 +1,5 @@
 # San Diego State University
 <h2> Computer Science, B.S. in Applied Arts and Sciences </h2>
-(Major Code: 07011) (SIMS Code: 773801)
 
 Preparation for the Major
 (42 units)
