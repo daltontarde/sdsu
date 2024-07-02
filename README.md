@@ -160,9 +160,9 @@ ENGL 541A - English Drama Units: 3 Must include at least three units
 ENGL 541B - English Drama Units: 3
 ENGL 543 - British Literary Periods, 1800-1900 Units: 3
 ENGL 544 - British Literary Periods, 1900-Present Units: 3
+
 Twelve Units Selected from the Following
 Must include at least three units of comparative literature.
-
 ENGL 501 - Literature for Children Units: 3
 ENGL 502 - Adolescence in Literature Units: 3
 ENGL 503 - Topics in Children’s Literature Units: 3
@@ -172,8 +172,6 @@ ENGL 550 - Queer Texts and Contexts Units: 3
 ENGL 563 - Literature and Culture Units: 3
 C LT 440 - African Literature Units: 3
 C LT 445 - Modern Latin American Literature Units: 3
- 
-
 C LT 470 - Folk Literature Units: 3
 C LT 513 - Nineteenth Century European Literature Units: 3
 C LT 561 - Fiction Units: 3
@@ -181,6 +179,7 @@ C LT 580 - Concepts in Comparative Studies Units: 3
 C LT 594 - Topics in Literature and the Arts Units: 3
 C LT 595 - Literature and Aesthetics Units: 3
 C LT 596 - Topics in Comparative Literature Units: 3
+
 Six Units Selected from the Following
 ENGL 508W - The Writing of Criticism Units: 3 Must include at least three units
 ENGL 562 - Digital Methods in Literary Studies Units: 3
@@ -194,5 +193,6 @@ ENGL 579 - Topics in Creative Writing Units: 3
 ENGL 580 - Writing of Poetry Units: 3
 ENGL 581W - Writing of Fiction Units: 3
 ENGL 584W - Writing Informal Essays Units: 3
+
 Three Units of
 Three units of upper division English or comparative literature courses.
