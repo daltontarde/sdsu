@@ -193,6 +193,5 @@ ENGL 579 - Topics in Creative Writing Units: 3
 ENGL 580 - Writing of Poetry Units: 3
 ENGL 581W - Writing of Fiction Units: 3
 ENGL 584W - Writing Informal Essays Units: 3
-
 Three Units of
 Three units of upper division English or comparative literature courses.
