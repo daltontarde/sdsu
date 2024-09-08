@@ -1,4 +1,4 @@
-# San Diego State University
+# [San Diego State University](https://www.sdsu.edu/)
 
 ## Computer Science, B.S. in Applied Arts and Sciences
 
