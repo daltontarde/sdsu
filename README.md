@@ -1,6 +1,6 @@
 # [San Diego State University](https://www.sdsu.edu/)
 
-## Computer Science, B.S. in Applied Arts and Sciences
+## [Computer Science, B.S. in Applied Arts and Sciences](https://catalog.sdsu.edu/preview_program.php?catoid=2&poid=464&hl=%22computer+science%22&returnto=search)
 
 ### Preparation for the Major (42 units)
 
