@@ -78,7 +78,7 @@ In consultation and with the approval of the adviser, 18 units of courses are re
 - **CS 499** - Special Study (1-3 units)
 - **CS 596** - Advanced Topics in Computer Science (1-4 units)
 
-## English, B.A. in Liberal Arts and Sciences
+## [English, B.A. in Liberal Arts and Sciences](https://catalog.sdsu.edu/preview_program.php?catoid=2&poid=484&hl=%22english%22&returnto=search)
 
 ### Impacted Program
 
