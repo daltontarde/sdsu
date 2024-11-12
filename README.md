@@ -189,7 +189,7 @@ Must include at least three units of comparative literature.
 
 #### Six Units Selected from the Following
 
-- **ENGL 508W** - The Writing of Criticism (3 units) Must include at least three units
+- **ENGL 508W** - The Writing of Criticism (3 units)
 - **ENGL 562** - Digital Methods in Literary Studies (3 units)
 - **ENGL 570** - Techniques of Poetry (3 units)
 - **ENGL 571** - Techniques of the Short Story (3 units)
